@@ -9,3 +9,12 @@
         width:90%
       }
 }
+
+.image-fluid{
+    width:100%;
+}
+
+.img-cen{
+    display:flex;
+    justify-content: center;
+}
